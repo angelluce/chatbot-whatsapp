@@ -1,5 +1,3 @@
-# ChatBot WhatsApp
-
 ![ChatbotWhatsApp cover](https://github.com/angelluce/ChatBotWhatsApp/blob/gh-pages/assets/chatbot.png?raw=true "Chatbot WhatsApp")
 
 Este proyecto está configurado para ser desplegado en un entorno de producción local
